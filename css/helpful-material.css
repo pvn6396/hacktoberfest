@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-size: 16px;
   color: #444;
@@ -88,3 +89,39 @@ body {
   -moz-transform: scale(0.95);
   -o-transform: scale(0.95);
 }
+=======
+body {
+  font-size: 16px;
+  color: #444;
+  line-height: 1.6;
+  background-color:mistyrose;
+}
+
+.copy {
+  padding-left: 50%;
+}
+
+.guides {
+  margin-bottom: 3rem;
+}
+
+.navbar {
+  background: linear-gradient(to left, #FF0844, #FF4563)
+}
+
+
+.container a {
+  text-decoration: none;
+  color: #FF0844;
+}
+
+.container a:hover {
+  text-decoration: none;
+  color: #cc0636;
+}
+
+a.guides-links{
+  display: inline-block;
+  margin-bottom: 80px
+}
+>>>>>>> 7cb6e7b55d8c2306ad4c8bbdde42f6083e6c6fdb
